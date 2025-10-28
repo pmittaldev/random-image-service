@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+env/
+venv/
+.git
+.gitignore
+app/images/          # optional: ignore local images if you plan to mount a volume
+.idea
